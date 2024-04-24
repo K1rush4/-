@@ -38,8 +38,8 @@
 
 # Файлы для загрузки
 Фишки в формате PDF
-[GitHub](/Комбинации.pdf)
-[Google Drive]([/Комбинации.pdf](https://drive.google.com/file/d/1jsnmEtKxlIChUtMo3aRqHc_qG6SA60tn/view))
+[[GitHub]](/Комбинации.pdf)
+[[Google Drive]](https://drive.google.com/file/d/1jsnmEtKxlIChUtMo3aRqHc_qG6SA60tn/view)
 
 [Фишки в формате ai](https://drive.google.com/file/d/1aLIXy83RlnaNhYhE7dzGS5u-4sd1louu/view) (С помощью Adobe Illustrator вы можете добавить или изменить цвет и номинал фишек. Для этого под листами находятся заготовки, собрав воедино которые вы сможете создать свой собственный стиль)
 
