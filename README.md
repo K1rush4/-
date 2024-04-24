@@ -83,3 +83,8 @@
 Среднее время игры 1.5-2 часа.
 
 Удачи и веселой игры!
+
+<details markdown="1">
+  <summary>Adds a student to the students list.</summary>
+.. my stuff
+</details>
