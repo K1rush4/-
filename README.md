@@ -38,12 +38,16 @@
 
 # Файлы для загрузки
 Фишки в формате PDF
-[[GitHub]](/Комбинации.pdf)
+[[GitHub]](/Фишки.pdf)
 [[Google Drive]](https://drive.google.com/file/d/1jsnmEtKxlIChUtMo3aRqHc_qG6SA60tn/view)
 
-[Фишки в формате ai](https://drive.google.com/file/d/1aLIXy83RlnaNhYhE7dzGS5u-4sd1louu/view) (С помощью Adobe Illustrator вы можете добавить или изменить цвет и номинал фишек. Для этого под листами находятся заготовки, собрав воедино которые вы сможете создать свой собственный стиль)
+Фишки в формате ai (С помощью Adobe Illustrator вы можете добавить или изменить цвет и номинал фишек. Для этого под листами находятся заготовки, собрав воедино которые вы сможете создать свой собственный стиль)
+[[GitHub]](/Фишки.ai)
+[[Google Drive]](https://drive.google.com/file/d/1aLIXy83RlnaNhYhE7dzGS5u-4sd1louu/view)
 
-[Подсказки с покерными комбинациями (если необходимо)](https://drive.google.com/file/d/1NvRihj0tzSNZvRR_e9seO3vpjdG_Dqq5/view)
+Подсказки с покерными комбинациями (если необходимо)
+[[GitHub]](/Комбинации.pdf)
+[[Google Drive]](https://drive.google.com/file/d/1NvRihj0tzSNZvRR_e9seO3vpjdG_Dqq5/view)
 
 # Стоимость данных фишек
 2 самоклеящихся листа фотобумаги: 2 * 10 = 20 рублей
